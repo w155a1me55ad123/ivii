@@ -1,0 +1,45 @@
+body{ background-color: rgb(167, 183, 185)}
+#logo{ border-radius:50%;
+       text-align : center;  
+    }
+#ivi{color: greenyellow;
+     font-family: 'Snell Roundhand', 'cursive', serif ;
+     text-align: center;
+     padding: 40px ;
+     height : 30px ;
+     font-size: 100px ;
+    text-shadow: 2px 2px 5px rgb(111, 151, 120);
+     }
+.tof{border:1px solid rgb(43, 223, 43);
+     box-shadow: gray ;
+}
+input {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;}
+button{ width: 100%;
+    padding: 12px 20px;
+    margin: 8px ;
+    box-sizing: border-box;
+    color : green;
+    border-bottom-color: green}
+#adding{ background-color: #4FC3F7;
+         box-shadow : 1px 2px grey;
+         width : 50%;
+         text-align: center ; 
+}
+#addi{ color :rgb(218, 31, 62);
+    text-align: center ;
+
+ }
+ #acc{ height:50px;
+       font-size:150%;
+}
+ #trans{height:50px;
+    font-size: 150%;}
+     .file{ height:60px;
+        font-size:150%; }
+.class{
+    align:center;
+}
